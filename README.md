@@ -1,2 +1,3 @@
-# spectrum-network
-Spectrum Network | Il mio canale TV
+# Spectrum Network
+Spectrum Network é Il mio canale TV personalizzato visibile tramite IPTV, non é un canale serio e non so se lo manterro per un periodo di tempo molto lungo, di sicuro durerá una settimana e lo faró partire dopo le olimpiadi.
+Avrei voluto evitare di renderlo pubblico anche perché non so nemmeno se uscirá bene, peró mi serviva il link diretto per il file m3u8 quindi ho dovuto per forza renderlo pubblico, se dovesse piacere comunque sarei contento, probabilmente non controllero molto la reposity essendo che non doveva essere pubblico, quindi se mi scrivete qualcosa potrei non leggerlo, scusate.
