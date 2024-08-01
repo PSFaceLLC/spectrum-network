@@ -4,12 +4,21 @@ Avrei voluto evitare di renderlo pubblico anche perché non so nemmeno se uscir�
 
 # Programmazione base (quella solita)
 08:00-10:00 Detective Conan (o altri anime)
+
 10:00-12:00 Internet Things (serie di internet, meme, sostanzialmente roba divertente di Internet, potrebbe finire prima, se finisse prima dopo ci sarebbero pubblicitá fino alle 12:00)
+
 12:00-13:00 Detto Fatto (o altri programmi di The Show)
+
 13:00-14:00 Si puó fare? (o altri programmi di The Show)
+
 14:00-16:00 I Simpson (perché si, sono simpatici)
+
 16:00-17:30 N/A (non so che mettere, ci penso oggi)
+
 17:30-19:00 Serie TV (Serie ad episodi connessi, con una storia, di solito Ghosts, quando finira qualcos'altro)
+
 19:00-20:00 Detto Fatto (o altri programmi di The Show)
+
 20:00-21:00 Cose da non fare (o altri programmi di The SHow)
+
 21:00-00:00 Serie Crime (miste, sia ad episodi connessi che non connessi)
