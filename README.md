@@ -23,7 +23,7 @@ Avrei voluto evitare di renderlo pubblico anche perché non so nemmeno se uscir�
 
 20:00-21:00 Cose da non fare (o altri programmi di The SHow)
 
-21:00-00:00 Serie Crime (miste, sia ad episodi connessi che non connessi)
+21:00-00:00 Serie Crime (miste, sia ad episodi connessi che non connessi, c'é braking bad di solito e poi altro, 2 episodi per serie al giorno, questo vale sempre)
 
 # Programmazione del Weekend e dei giorni di festa
 Ancora da stabilire.
