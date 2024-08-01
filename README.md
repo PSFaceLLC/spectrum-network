@@ -22,3 +22,6 @@ Avrei voluto evitare di renderlo pubblico anche perch√© non so nemmeno se uscir√
 20:00-21:00 Cose da non fare (o altri programmi di The SHow)
 
 21:00-00:00 Serie Crime (miste, sia ad episodi connessi che non connessi)
+
+# Programmazione del Weekend e dei giorni di festa
+Ancora da stabilire.
