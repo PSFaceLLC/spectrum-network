@@ -4,6 +4,10 @@ La diretta inizierá lunedí ~~12~~ **5** agosto (proprio quel giorno, non quell
 Spectrum Network é Il mio canale TV personalizzato visibile tramite IPTV, non é un canale serio e non so se lo manterro per un periodo di tempo molto lungo, di sicuro durerá una settimana ~~e lo faró partire dopo le olimpiadi.~~
 Avrei voluto evitare di renderlo pubblico anche perché non so nemmeno se uscirá bene, peró mi serviva il link diretto per il file m3u quindi ho dovuto per forza renderlo pubblico, se dovesse piacere comunque sarei contento, probabilmente non controllero molto la reposity essendo che non doveva essere pubblico, quindi se mi scrivete qualcosa potrei non leggerlo, scusate.
 
+Lo trovate qui:
+`https://raw.githubusercontent.com/PSFaceLLC/spectrum-network/main/playlist.m3u` link del file m3u per l'iptv, aggiungetelo come **playlist**
+Oppure su PikaTV (piattaforma streaming gratuita creata da me, non do il link pubblicamente quindi solo chi é autorizzato puo accedervi)
+
 # Programmazione base (quella solita)
 08:00-10:00 Anime (Detective Conan o altri anime)
 
