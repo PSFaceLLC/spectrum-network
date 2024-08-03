@@ -10,6 +10,8 @@ Lo trovate qui:
 
 Oppure su PikaTV (piattaforma streaming gratuita creata da me, non do il link pubblicamente quindi solo chi é autorizzato puo accedervi)
 
+Per quanto riguarda l'EPG é qui `https://raw.githubusercontent.com/PSFaceLLC/spectrum-network/main/epg.xml`
+
 # Programmazione base (quella solita)
 08:00-10:00 Anime (Detective Conan o altri anime)
 
