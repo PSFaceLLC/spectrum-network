@@ -1,4 +1,14 @@
-<tv date="20240803105410">
+<tv date="20240803172008">
+  <programme channel="59360" stop="202408050800" start="202408031700">
+    <title lang="pt">N/A</title>
+    <sub-title lang="pt"/>
+    <desc lang="pt">Test phase</desc>
+    <length units="minutes">2340</length>
+    <rating>
+      <value>01</value>
+    </rating>
+    <category lang="pt">0xFF</category>
+  </programme>
   <programme channel="59360" stop="202408050827" start="202408050800">
     <title lang="pt">Detective Conan</title>
     <sub-title lang="pt"/>
